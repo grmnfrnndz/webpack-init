@@ -11,11 +11,11 @@
 ```
 
 ## build dist prod
-``
+```
     npm run build
-``
+```
 
 ## build dist dev
-``
+```
     npm run build:dev
-``
+```
